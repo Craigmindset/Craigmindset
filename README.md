@@ -1,5 +1,4 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Craig Iredia</h1>
 <h3 align="center">I'm a full stack developer, always open to learn and try my hands on new challenges.</h3>
 
